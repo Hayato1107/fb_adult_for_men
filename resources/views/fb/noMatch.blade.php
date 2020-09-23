@@ -14,6 +14,8 @@
         </header>
         
         <div class="big-body">
+            <!--追加見出し-->
+            <img src="{{ asset('image/ad_head_1.jpg') }}" class="wide">
             <div class="body-top">
                 <h1><span>『裏垢男子』必見!!!</span></h1>
                 <h1><span>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
