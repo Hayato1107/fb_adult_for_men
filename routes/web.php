@@ -16,6 +16,9 @@ Route::get('app', function () {
     // return view('fb.noMatch'); //LP獲得用
 });
 
+// 男性向け訴求 - OS識別x遷移
+Route::get('os', 'AdController@os');
+
 // LP確認用
 Route::get('cccheck', function () {
     return view('fb.noMatch');
