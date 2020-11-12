@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('app', function () {
-    // return view('fb.check'); //LP確認用
-    return view('fb.friend'); //暇つぶし訴求
+    return view('fb.check'); //LP確認用
+    // return view('fb.friend'); //暇つぶし訴求
     
     // return view('fb.noMatch'); //LP獲得用
 });
