@@ -13,7 +13,7 @@
 // LP獲得用
 Route::get('job', function () {
     return view('fb.check'); //LP確認用
-    // return view('fb.friend'); //暇つぶし訴求
+    // return view('fb.friend'); //暇つぶし→ママ活訴求
     
     // return view('fb.noMatch'); //LP獲得用
 });
@@ -23,7 +23,7 @@ Route::get('os', 'AdController@os');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.friend'); //暇つぶし訴求
+    return view('fb.friend'); //暇つぶし→ママ活訴求
     
     // return view('fb.noMatch');
 });
