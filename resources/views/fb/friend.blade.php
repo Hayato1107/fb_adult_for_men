@@ -16,7 +16,7 @@
             <a href="./os" target="_blank" class="btn-square-little-rich">公式アプリはコチラ <i class="fas fa-chevron-circle-right"></i></a>
         </div>
         <p>※希望者は、アプリDL後<span class="red">掲示板をCHECK!</span></p>
-        <img src="{{ asset('image/m_s.jpg') }}"></img>
+        <a href="./os" target="_blank"><img src="{{ asset('image/m_s.jpg') }}"></img></a>
         <p class="p-bottom">※掲示板例</p>
     </body>
 </html>
