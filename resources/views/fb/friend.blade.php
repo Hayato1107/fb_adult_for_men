@@ -17,6 +17,6 @@
         </div>
         <p>※希望者は、アプリDL後<span class="red">掲示板をCHECK!</span></p>
         <img src="{{ asset('image/m_s.jpg') }}"></img>
-        <p>※掲示板例↑</p>
+        <p class="p-bottom">※掲示板例</p>
     </body>
 </html>

@@ -51,3 +51,7 @@ p {
   color: red;
   border-bottom: 2px solid red;
 }
+
+.p-bottom {
+  margin-top: -1em;
+}
