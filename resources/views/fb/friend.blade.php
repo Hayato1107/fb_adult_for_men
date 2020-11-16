@@ -9,12 +9,12 @@
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
-        <img src="{{ asset('image/m_abm.jpg') }}"></img>
-        <br>
-        <h1>情報解禁された<span class="red">ママ活の新定番</span><br>ライバルが少ないうちにママと繋がる?!</h1>
+        <!--<img src="{{ asset('image/m_abm.jpg') }}"></img>-->
+        <!--<br>-->
+        <h1>公式ページは移動しました。<br>ライバルが少ないうちに<span class="red">ママと繋がる?!</span></h1>
         <div class="button">
             <a href="./os" target="_blank" class="btn-square-little-rich">公式アプリはコチラ <i class="fas fa-chevron-circle-right"></i></a>
         </div>
-        <p>※登録不要! <span class="red">DL後すぐママを探そう!</span></p>
+        <p>※希望者は、アプリDL後<span class="red">掲示板をCHECK!</span></p>
     </body>
 </html>
