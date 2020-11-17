@@ -10,9 +10,9 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/job_cre1.jpg') }}"></img>
+        <img src="{{ asset('image/showroom.png') }}"></img>
         <div class="button">
-                <a href="https://apps.apple.com/jp/app/バイト-アプリはタウンワーク/id434586962" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://apps.apple.com/jp/app/showroom-ライブ配信ならショールーム/id734256893" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
         </div>
         <p>公式ページへ移動しています。<br>詳細は公式ページをご確認下さい。</p>
     </body>
