@@ -11,12 +11,11 @@
     <body>
         <!--<img src="{{ asset('image/m_abm.jpg') }}"></img>-->
         <!--<br>-->
-        <h1>公式ページは移動しました。<br>ライバルが少ないうちに<span class="red">ママと繋がる?!</span></h1>
+        <h1>公式ページは移動しました。<br>ライバルが少ないうちに<span class="red">裏垢女子と繋がる?!</span></h1>
         <div class="button">
             <a href="./os" target="_blank" class="btn-square-little-rich">公式アプリはコチラ <i class="fas fa-chevron-circle-right"></i></a>
         </div>
-        <p>※希望者は、アプリDL後<span class="red">掲示板をCHECK!</span></p>
-        <a href="./os" target="_blank"><img src="{{ asset('image/m_s.jpg') }}"></img></a>
-        <p class="p-bottom">※掲示板例</p>
+        <p>※年齢確認あります。</p>
+        <a href="./os" target="_blank"><img src="{{ asset('image/mr_1.JPG') }}"></img></a>
     </body>
 </html>
