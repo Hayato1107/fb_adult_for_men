@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('app', function () {
+Route::get('new', function () {
     return view('fb.check'); //LP確認用
     // return view('fb.friend'); //ママ活訴求
     
