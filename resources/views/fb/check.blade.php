@@ -10,8 +10,7 @@
     </head>
     <body>
         <br>
-        <h1>応募多く頂いております！<br>空いた時間を活かそう！</h1>
-        <img src="{{ asset('image/tt_bai.png') }}"></img>
-        <p>公式ストアへ遷移します。再度<a href="https://apps.apple.com/jp/app/バイトルでアルバイト選び/id387320095">コチラ</a>をタップして下さい。</p>
+        <img src="{{ asset('image/jobwicker.png') }}"></img>
+        <p>公式ストアへ遷移します。再度<a href="https://apps.apple.com/jp/app/ジョブクイッカー-求人-バイト探し/id1054853316?mt=8">コチラ</a>をタップして下さい。</p>
     </body>
 </html>
