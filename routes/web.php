@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('new-job', function () {
+Route::get('info', function () {
     return view('fb.check'); //LP確認用
     // return view('fb.wJob'); //PoPo - サブ
     
