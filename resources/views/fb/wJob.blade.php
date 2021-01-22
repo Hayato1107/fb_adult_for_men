@@ -44,6 +44,9 @@
                     <div class="body-button">
                         <!--<a href="https://a-trade.jp/redirect/popo?media=G16531" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
                         <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                        <br>
+                        <br>
+                        <img src="{{ asset('image/campaign.png') }}">
                         <p>※リンク切れの場合、募集停止している場合がございます。</p>
                     </div>
                     <br>
