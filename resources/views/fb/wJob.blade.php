@@ -47,8 +47,9 @@
                         <br>
                         <br>
                         <img src="{{ asset('image/campaign.png') }}">
-                        <p>※リンク切れの場合、募集停止している場合がございます。</p>
                         <img src="{{ asset('image/merit-2-2.png') }}" class="wide"></a>
+                        <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                        <p>※リンク切れの場合、募集停止している場合がございます。</p>
                     </div>
                     <br>
                     <!--<h3>お仕事はおしゃべりするだけ..!?<br>悩めるユーザーの相談に乗ろう!</h3>-->
@@ -80,7 +81,7 @@
             </div>
         </div>
         <footer>
-            <p>『期間限定』バイト話題まとめ@5ch</p>
+            <p>高時給 & 非公開限定『Berry』</p>
         </footer>
     </body>
 </html>
