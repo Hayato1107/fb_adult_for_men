@@ -81,7 +81,7 @@
             </div>
         </div>
         <footer>
-            <p>高時給 & 非公開限定『Berry』</p>
+            <p>期間限定 -女性応援キャンペーン-</p>
         </footer>
     </body>
 </html>
