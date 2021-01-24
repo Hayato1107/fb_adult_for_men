@@ -48,6 +48,7 @@
                         <br>
                         <img src="{{ asset('image/campaign.png') }}">
                         <p>※リンク切れの場合、募集停止している場合がございます。</p>
+                        <img src="{{ asset('image/merit-2-2.png') }}" class="wide"></a>
                     </div>
                     <br>
                     <!--<h3>お仕事はおしゃべりするだけ..!?<br>悩めるユーザーの相談に乗ろう!</h3>-->
