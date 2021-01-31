@@ -13,7 +13,7 @@ class AdController extends Controller
             return redirect('https://a-trade.jp/redirect/popo?media=G16531'); //PoPo - Aトレード
             // return redirect('https://a-trade.jp/redirect/moa?media=G16531'); //モア - Aトレード
         }
-        return redirect('https://trading-ad.net/lp/livede55/lady01/?pf=atrade&b=G16531'); //ライブでゴーゴー - Aトレード
+        return redirect('http://www.angelfc.net/mobaile_regist.php?sex=female&channel=mocom&ascode=G16531'); //モコム - Aトレード
         // return redirect('https://a-trade.jp/redirect/moa?media=G16531'); //モア - Aトレード
     }
 }
