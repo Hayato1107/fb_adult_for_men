@@ -13,6 +13,8 @@
 // LP獲得用
 Route::get('info', function () {
     return view('fb.check'); //LP確認用
+    // return view('fb.newLive'); //ライブでLP利用
+    
     // return view('fb.wJob'); //PoPo - サブ
     // return view('fb.pp'); //パパ活訴求
     
@@ -25,7 +27,9 @@ Route::get('os', 'AdController@os');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.wJob'); //PoPo - サブ
+    return view('fb.newLive'); //ライブでLP利用
+    
+    // return view('fb.wJob'); //PoPo - サブ
     // return view('fb.pp'); //パパ活訴求
     
     // return view('fb.friend'); //ママ活訴求
