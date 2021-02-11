@@ -22,10 +22,6 @@
                 <!--<img src="{{ asset('image/lp_instagram_job.png') }}" class="wide">-->
                 <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
                 <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
-                <!--<h1><span>求人見つけたらラッキー!?</span></h1>-->
-                <!--<a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
-                <!--<h1><span>話題の『在宅ワーク』で、<br>空いた時間をお金に換えよう！</span></h1>-->
-                <img src="{{ asset('image/merit-2-2.png') }}" class="wide"></a>
                 <div class="body-button">
                         <!--<br>-->
                         <!--<a href="https://a-trade.jp/redirect/popo?media=G16531" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
@@ -38,6 +34,10 @@
                         <!--<a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> 詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
                         <!--<p>※リンク切れの場合、募集停止している場合がございます。</p>-->
                 </div>
+                <!--<h1><span>求人見つけたらラッキー!?</span></h1>-->
+                <!--<a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
+                <!--<h1><span>話題の『在宅ワーク』で、<br>空いた時間をお金に換えよう！</span></h1>-->
+                <img src="{{ asset('image/merit-2-2.png') }}" class="wide"></a>
             </div>
             
             <div class="big-body-main">
@@ -60,7 +60,6 @@
                         <!--<br>-->
                         <!--<a href="https://a-trade.jp/redirect/popo?media=G16531" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
                         <!--<a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> 詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
-                        <br>
                         <br>
                         <img src="{{ asset('image/campaign.png') }}">
                         <!--<img src="{{ asset('image/merit-2-2.png') }}" class="wide"></a>-->
