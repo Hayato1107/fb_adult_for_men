@@ -38,6 +38,7 @@
                 <!--<h1><span>求人見つけたらラッキー!?</span></h1>-->
                 <!--<a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
                 <!--<h1><span>話題の『在宅ワーク』で、<br>空いた時間をお金に換えよう！</span></h1>-->
+                <br>
                 <img src="{{ asset('image/merit-2-2.png') }}" class="wide"></a>
             </div>
             
