@@ -65,6 +65,7 @@
                         <br>
                         <img src="{{ asset('image/campaign.png') }}">
                         <!--<img src="{{ asset('image/merit-2-2.png') }}" class="wide"></a>-->
+                        <br>
                         <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事アプリはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                         <p>※リンク切れの場合、募集停止している場合がございます。</p>
                     </div>
