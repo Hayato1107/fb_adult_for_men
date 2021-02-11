@@ -22,6 +22,7 @@
                 <!--<img src="{{ asset('image/lp_instagram_job.png') }}" class="wide">-->
                 <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
                 <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
+                <a href="./os"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>
                 <div class="body-button">
                         <!--<br>-->
                         <!--<a href="https://a-trade.jp/redirect/popo?media=G16531" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
