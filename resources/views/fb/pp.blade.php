@@ -17,6 +17,9 @@
         </div>
         <!--<p>※女性は完全無料! <span class="red">登録3分でパパ探し開始!</span></p>-->
         <p>※<span class="green">LINE友達追加</span>で、今なら<br><span class="red">今、最も初心者に稼ぎやすいパパ活</span>を紹介中!</p>
+        <img src="{{ asset('image/campaign.png') }}">
+        <br>
+        <br>
         <!--<br>-->
         <img src="{{ asset('image/p_manga_1.jpg') }}"></img>
         <img src="{{ asset('image/p_manga_2.jpg') }}"></img>
@@ -32,6 +35,6 @@
         </div>
         <!--<p>※女性は完全無料! <span class="red">登録3分でパパ探し開始!</span></p>-->
         <p>※<span class="green">LINE友達追加</span>で、今なら<br><span class="red">今、最も初心者に稼ぎやすいパパ活</span>を紹介中!</p>
-        <br>
+        <img src="{{ asset('image/campaign.png') }}">
     </body>
 </html>

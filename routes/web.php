@@ -27,10 +27,10 @@ Route::get('os', 'AdController@os');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.newLive'); //ライブでLP利用
+    return view('fb.pp'); //パパ活訴求
+    // return view('fb.newLive'); //ライブでLP利用
     
     // return view('fb.wJob'); //PoPo - サブ
-    // return view('fb.pp'); //パパ活訴求
     
     // return view('fb.friend'); //ママ活訴求
     // return view('fb.noMatch');
