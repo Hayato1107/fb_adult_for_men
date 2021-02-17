@@ -25,6 +25,9 @@ Route::get('info', function () {
 // 男性向け訴求 - OS識別x遷移
 Route::get('os', 'AdController@os');
 
+// パパ活用訴求 - OS識別x遷移
+Route::get('osd', 'AdController@osd');
+
 // LP確認用
 Route::get('cccheck', function () {
     return view('fb.pp'); //パパ活訴求
