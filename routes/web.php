@@ -23,11 +23,11 @@ Route::get('info', function () {
     // return view('fb.noMatch'); //LP獲得用
 });
 
-// 男性向け訴求 - OS識別x遷移
+// ギフトチャット - OS識別x遷移
 Route::get('os', 'AdController@os');
 
-// パパ活用訴求 - OS識別x遷移
-Route::get('osd', 'AdController@osd');
+// チャトレ訴求 - OS識別x遷移
+Route::get('os1', 'AdController@osd');
 
 // LP確認用
 Route::get('cccheck', function () {
