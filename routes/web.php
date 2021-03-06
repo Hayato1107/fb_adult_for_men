@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('info', function () {
-    // return view('fb.check'); //LP確認用
-    return view('fb.wJob'); //ギフトチャット
+    return view('fb.check'); //LP確認用
+    // return view('fb.wJob'); //ギフトチャット
     
     // return redirect('https://fam-ad.com/ad/p/r?_site=64801&_article=16355'); //ワクワク案件LP
     // return view('fb.pp'); //パパ活訴求
